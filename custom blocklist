@@ -1,8 +1,7 @@
+||unagi.amazon.com^$client=192.168.1.35
 
-unagi.amazon.com
+||ktpx.amazon.com^$client=192.168.1.35
 
-ktpx.amazon.com
+||ecx.images-amazon.com^$=192.168.1.35
 
-ecx.images-amazon.com
-
-m.media-amazon.com
+||m.media-amazon.com^$=192.168.1.35
