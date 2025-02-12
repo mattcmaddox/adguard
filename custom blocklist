@@ -6,16 +6,4 @@
 
 ||m.media-amazon.com^$=192.168.1.35
 
-||hivebedrock.network^$
-||mineplex.com^$
-||inpvp.net^$
-||cubecraft.net^$
-||lbsg.net^$
-||galaxite.net^$
 
-/REGEX/ (.|^)hivebedrock.network$
-/REGEX/ (.|^)mineplex.com$
-/REGEX/ (.|^)inpvp.net$
-/REGEX/ (.|^)cubecraft.net$
-/REGEX/ (.|^)lbsg.net$
-/REGEX/ (.|^)galaxite.net$
